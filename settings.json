@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "CityBoXBOT24na7",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "BOT24na7",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "CityBoxpvp.aternos.me",
+    "port": 34035,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "fhjuvjdk"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,6 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
